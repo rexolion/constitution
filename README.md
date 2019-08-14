@@ -20,25 +20,9 @@ Cactus Vision занимается информационными техноло
 
 ### Содержание
 
-```
-#### [Article 1: Organizational Structure](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-1-organizational-structure)
 
-A role is Holacracy's core building block for organizational structure, and a circle contains and integrates many roles. This article covers how roles and circles are structured and connected.
-
-#### [Article 2: Operations](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-2-operations)
-
-Filling a role conveys certain authorities and responsibilities, as well as duties to fellow team members. This article covers those authorities and expectations, as well as the tactical meeting process used to coordinate operational work.
-
-#### [Article 3: Governance](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-3-governance)
-
-A circle's governance process is used to define its roles and policies. This article defines the governance process and the ground rules for proposing changes or objecting to proposals.
-
-#### [Article 4: Adoption Matters](https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md#article-4-adoption-matters)
-
-This article deals with the transition from pre-Holacracy to operating under the Constitution, and provides rules when adopting Holacracy within a board structure with a group of representatives in lieu of a single Lead Link.
-```
 
 ---
 
-Каждый может внести [свой вклад](participation.md) в развитие действующей в Cactus Vision Конституции, или же сделать ответвление и разиваться свою версию независимо, в соответствии с условиями [лицензии](LICENSE.md).
+Каждый может внести [свой вклад](participation.md) в развитие действующей в Cactus Vision Конституции, или же сделать ответвление и разивать свою версию независимо, в соответствии с условиями [лицензии](LICENSE.md).
 
