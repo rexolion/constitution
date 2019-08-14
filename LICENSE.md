@@ -2,7 +2,7 @@
 
 #### Данные материалы являются ответвлением от <a href="http://holacracy.org/constitution" target="_blank">Holacracy Constitution</a>.
 
-#### Это изложенное понятным языком краткое объяснение. Оно не заменяет полный текст <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru" target="_blank">лицензии</a>
+#### Это изложенное понятным языком краткое объяснение. Оно не заменяет полный текст <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru" target="_blank">лицензии</a>.
 
 
 ### Вы можете свободно:
