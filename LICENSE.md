@@ -1,21 +1,26 @@
-## Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+## Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) | «Атрибуция — На тех же условиях» 4.0 Всемирная
 
-#### This is a human-readable summary of (and not a substitute for) the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">license</a>.
+#### Данные материалы являются ответвлением от <a href="http://holacracy.org/constitution" target="_blank">Holacracy Constitution</a>.
 
-#### You are free to:
+#### Это изложенное понятным языком краткое объяснение. Оно не заменяет полный текст <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru" target="_blank">лицензии</a>
 
-**Share** — copy and redistribute the material in any medium or format
-**Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-#### Under the following terms:
+### Вы можете свободно:
 
-**Attribution** — You must give **appropriate credit**, provide a link to the license, and **indicate if changes were made**. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+**Делиться** (обмениваться) — копировать и распространять материал на любом носителе и в любом формате.
+**Адаптировать** (создавать производные материалы) — видоизменять, и создавать новое, опираясь на этот материал в любых целях, включая коммерческие.
+Лицензиар не вправе аннулировать эти свободы пока вы выполняете условия лицензии.
 
-**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the **same license** as the original.
 
-**No additional restrictions** — You may not apply legal terms or **technological measures** that legally restrict others from doing anything the license permits.
+### При обязательном соблюдении следующих условий:
 
-#### Additional Info:
+**Attribution** («Атрибуция») — Вы должны обеспечить _соответствующее указание авторства_, предоставить ссылку на лицензию, и _обозначить изменения, если таковые были сделаны_. Вы можете это делать любым разумным способом, но не таким, который подразумевал бы, что лицензиар одобряет вас или ваш способ использования произведения.
 
-Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC.  And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents.  So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution (please include a link to http://holacracy.org/constitution).  However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document.  If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact us</a>!
+**ShareAlike** («На тех же условиях») — Если вы перерабатываете, преобразовываете материал или берёте его за основу для производного произведения, вы должны распространять переделанные вами части материала на условиях _той же лицензии_, в соответствии с которой распространяется оригинал.
+
+**Без дополнительных ограничений** — Вы не вправе применять юридические ограничения или _технологические меры_, создающие другим юридические препятствия в выполнении чего-либо из того, что разрешено лицензией.
+
+
+### Дополнительная информация от Cactus Vision:
+
+Публикуемые материалы являются достоянием всего Человечества, по какой причине никто не обладает в отношении них персональными авторскими правами. В случае присвоения себе в установленном законом порядке авторских прав юридическим или физическим лицом, совершивший это столкнется с воздаянием за воровство, выражающемся в неприятной “мистике”, выходящей за пределы юриспруденции. Тем не менее, каждый желающий имеет полное право, исходя из свойственного ему понимания общественной пользы, копировать и тиражировать, в том числе с коммерческими целями, настоящие материалы в полном объеме или фрагментарно всеми доступными ему средствами. Использующий настоящие материалы в своей деятельности, при фрагментарном их цитировании, либо же при ссылках на них, принимает на себя персональную ответственность, и в случае порождения им смыслового контекста, извращающего смысл настоящих материалов, как целостности, он имеет шансы столкнуться с “мистическим”, внеюридическим воздаянием.
