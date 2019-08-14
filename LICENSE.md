@@ -1,8 +1,8 @@
 ## Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) | «Атрибуция — На тех же условиях» 4.0 Всемирная
 
-#### Данные материалы являются ответвлением от <a href="http://holacracy.org/constitution" target="_blank">Holacracy Constitution</a>.
+**Данные материалы являются ответвлением от <a href="http://holacracy.org/constitution" target="_blank">Holacracy Constitution</a>.**
 
-#### Это изложенное понятным языком краткое объяснение. Оно не заменяет полный текст <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru" target="_blank">лицензии</a>.
+**Это изложенное понятным языком краткое объяснение. Оно не заменяет полный текст <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.ru" target="_blank">лицензии</a>.**
 
 
 ### Вы можете свободно:
