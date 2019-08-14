@@ -1,9 +1,9 @@
-#### Discussions are available here for participants to discuss changes, issues, or other tensions related to the Holacracy Constitution. 
+#### Участники могут предложить изменения, поделиься проблемами или другими противоречиями, связанными с Конституцией
 
-Navigate <a href="https://github.com/holacracyone/Holacracy-Constitution/issues" target="_blank">Here</a> and click on the green "New Issue" button. 
+Чтобы просмотреть список актуальных вопросов перейдите по <a href="https://github.com/cactus-vision/constitution/issues" target="_blank">ссылке</a>. 
 
-Title your discussion and describe your points and click on "Submit new issue". 
+Для создания нового запроса нажмите зеленую кнопку «New Issue», затем укажите тему вашего запроса (Title), опишите суть (Leave a comment) и нажмите на кнопку «Submit new issue».
 
-Depending on your settings you'll get notifications about activity on your submission. 
+В зависимости от ваших настроек вы будете получать уведомления о новых ответах к вашему запросу.
 
-Thanks for participating. 
+#### Благодарим за участие!
